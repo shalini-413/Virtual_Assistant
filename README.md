@@ -29,4 +29,7 @@ Pueblo is a simple **voice-based virtual assistant** built using **HTML, CSS, an
 - The assistant responds with a voice reply.
 
 # Happy Coding!
+[Linkedin](https://www.linkedin.com/in/shalini-sharma-8b9b15200/)
+Shalini Sharma
+
 
