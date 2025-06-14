@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/27908c8d-ab98-456d-8b3b-acc10027b46e)
+
 # 🗣️ Virtual Assistant - Pueblo
 
 ## 📌 Project Description
